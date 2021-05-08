@@ -1,0 +1,11 @@
+{
+  "demo": {
+    "title": "Demo sa translacijama",
+    "text": "Jednostavna demostracija ngx-translate",
+    "greeting": "Bok {{name}}"
+  },
+  "lazyloaded": {
+    "title": "Demo sa translacijama",
+    "text": "Jednostavna demostracija ngx-translate"
+  }
+}
